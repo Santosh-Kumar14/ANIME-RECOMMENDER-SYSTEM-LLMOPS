@@ -131,8 +131,8 @@
 ### 4. Interlink your Github on VSCode and on VM
 
 ```bash
-git config --global user.email "gyrogodnon@gmail.com"
-git config --global user.name "data-guru0"
+git config --global user.email "kumar.santosh.diatm1@gmail.com"
+git config --global user.name "Santosh-Kumar14"
 
 git add .
 git commit -m "commit"
@@ -140,7 +140,7 @@ git push origin main
 ```
 
 - When prompted:
-  - **Username**: `data-guru0`
+  - **Username**: `Santosh-Kumar14`
   - **Password**: GitHub token (paste, it's invisible)
 
 ---
